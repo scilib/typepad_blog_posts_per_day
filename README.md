@@ -1,2 +1,2 @@
 # typepad_blog_posts_per_day
-Charts blog posts per day from Typepad blog posts plaintext download.
+A Jupyter Notebook that charts blog posts per day from Typepad blog posts plaintext download.
